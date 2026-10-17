@@ -12,7 +12,7 @@ An interactive **Power BI** dashboard that analyzes student enrollment, academic
 - **Video walkthrough:** `[add LinkedIn / YouTube link]`
 - **Live report:** `[add Power BI Service link, if published]`
 
-![Dashboard Preview](images/dashboard-page-1.png)
+![Dashboard Preview](https://github.com/abdulkarimzubair/techma-zone-perfomance-dashboard/blob/main/page_1.JPG)
 ![Student Analysis Preview](images/dashboard-page-2.png)
 
 ---
