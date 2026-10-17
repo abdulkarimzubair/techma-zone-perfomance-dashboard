@@ -117,7 +117,7 @@ Tables used in the model:
 ## 👤 Author
 
 **[Abdul karim]**
-🔗 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/abdulkarim-zubair-a13941319/)) · 💻 [GitHub]abdulkarimzubair12.com)
+🔗 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/abdulkarim-zubair-a13941319/)
 
 ---
 
