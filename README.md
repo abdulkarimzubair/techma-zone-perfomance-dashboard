@@ -116,8 +116,8 @@ Tables used in the model:
 
 ## 👤 Author
 
-**[Your Name]**
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) · 💻 [GitHub](https://github.com/your-username)
+**[Abdul karim]**
+🔗 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/abdulkarim-zubair-a13941319/)) · 💻 [GitHub]abdulkarimzubair12.com)
 
 ---
 
